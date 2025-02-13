@@ -1,0 +1,186 @@
+{
+  "editor.colorDecorators": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  "editor.renderControlCharacters": true,
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "editor.wordWrap": "on",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    ".*lintrc": "json"
+  },
+  "files.exclude": {
+    "**/*.map": true,
+    "**/node_modules": true,
+    "**/nbproject": true
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[scss]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[css]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[jade]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[php]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[vue]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[ruby]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[JSX]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[TSX]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "[astro]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "html.format.contentUnformatted": "pre, code, textarea, title, h1, h2, h3, h4, h5, h6, p",
+  "html.format.extraLiners": "",
+  "html.format.unformatted": null,
+  "html.format.wrapLineLength": 0,
+  "search.exclude": {
+    "**/tmp": true
+  },
+  "window.openFoldersInNewWindow": "on",
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.colorCustomizations": {
+    // "terminal.foreground": "#15B779",
+    "terminal.foreground": "#FFCF63",
+
+    "terminal.background": "#1D2021",
+    "terminalCursor.background": "#D5C4A1",
+    "terminalCursor.foreground": "#D5C4A1",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#83A598",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#83A598",
+    "terminal.ansiBrightCyan": "#8EC07C",
+    "terminal.ansiBrightGreen": "#B8BB26",
+    "terminal.ansiBrightMagenta": "#D3869B",
+    "terminal.ansiBrightRed": "#FB4934",
+    "terminal.ansiBrightWhite": "#FBF1C7",
+    "terminal.ansiBrightYellow": "#FABD2F",
+    "terminal.ansiCyan": "#8EC07C",
+    "terminal.ansiGreen": "#B8BB26",
+    "terminal.ansiMagenta": "#D3869B",
+    "terminal.ansiRed": "#FB4934",
+    "terminal.ansiWhite": "#D5C4A1",
+    "terminal.ansiYellow": "#FABD2F"
+  },
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.editor.highlightModifiedTabs": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.color": "#42A5F5",
+  "files.eol": "\r\n",
+  "workbench.colorTheme": "One Dark Space Gray",
+  "editor.insertSpaces": false,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Source Han Code JP",
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "window.newWindowDimensions": "default",
+  "sync.gist": "",
+  "sync.autoUpload": false,
+  "editor.smoothScrolling": true,
+  "explorer.confirmDragAndDrop": false,
+  "sqltools.connections": [
+    {
+      "database": "cbclist",
+      "dialect": "MySQL",
+      "name": "localhost",
+      "password": "root",
+      "port": 8889,
+      "server": "localhost",
+      "username": "root"
+    }
+  ],
+  "todo-tree.tree.showScanModeButton": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.hover.enabled": false,
+  "update.showReleaseNotes": false,
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "powermode.shake.enabled": false,
+  "powermode.presets": "simple-rift",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "explorer.sortOrder": "type",
+  "workbench.editor.empty.hint": "hidden",
+  "git.openRepositoryInParentFolders": "always",
+  "livePreview.autoRefreshPreview": "Never",
+  "livePreview.debugOnExternalPreview": true,
+  "livePreview.openPreviewTarget": "External Browser",
+  "window.zoomLevel": 1,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "astro.content-intellisense": true,
+  // ディレクトリ構造表示、インデント幅
+  "workbench.tree.indent": 20,
+  // コメントアウトの色変更
+  "editor.tokenColorCustomizations": {
+    "comments": "#76A35A"
+    // "comments": "#E2D361",
+    // "comments": "#3BB4FF"
+  }
+}
